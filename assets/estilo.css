@@ -21,6 +21,10 @@ text-align: center;
 
 }
 
+.cartao:hover{
+    background-color: black;
+}
+
 .cartao--resposta{
 font-size: 20px;
 }
