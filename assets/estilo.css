@@ -21,8 +21,9 @@ text-align: center;
 
 }
 
-.cartao:hover{
+.cartao:hover .cartao--conteudo{
     background-color: green;
+    transform: rotateY(180des);
 }
 
 .cartao--resposta{
