@@ -23,7 +23,7 @@ text-align: center;
 
 .cartao:hover .cartao--conteudo{
     background-color: green;
-    transform: rotateY(180des);
+    transform: rotateY(180deg);
 }
 
 .cartao--resposta{
