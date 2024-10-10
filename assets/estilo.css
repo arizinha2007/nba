@@ -34,6 +34,9 @@ transform-style: preserve-3d;
 transition: transform 300ms ease-in-out;
 }
 
+.cartao--pergunta, .cartao--resposta{
+    backface-visibility: hidden;
+}
 
 footer{
  background-color: black;
