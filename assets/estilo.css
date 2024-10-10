@@ -31,7 +31,7 @@ font-size: 20px;
 }
 .cartao--conteudo{
 transform-style: preserve-3d;
-transition: transform300ms ease-in-out;
+transition: transform 300ms ease-in-out;
 }
 
 
