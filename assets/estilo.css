@@ -30,8 +30,10 @@ text-align: center;
 font-size: 20px;
 }
 .cartao--conteudo{
-transform-style: preserve-3d;
-transition: transform 300ms ease-in-out;
+    background-color: blue;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 300ms ease-in-out;
 }
 
 .cartao--pergunta, .cartao--resposta{
