@@ -3,12 +3,12 @@
 padding: 0;
 }
 
-.conteudo{
+#conteudo{
     display: flex;
     justify-content: space-between;
 }
 
-#cartao{
+.cartao{
 
 color: black;
 
